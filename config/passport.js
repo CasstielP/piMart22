@@ -22,6 +22,3 @@ module.exports = passport => {
         .catch(err => console.log(err));
     }));
   };
-
-
-// token:BearereyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NmFjN2I1YjEwNTU3MTcwNDliNjBlNSIsImhhbmRsZSI6IidjYXNzJyIsImlhdCI6MTcwMTQ5ODMwMSwiZXhwIjoxNzAxNTAxOTAxfQ.BHYY3Rt9X9B2pA52bc1qLF-Fu27fspgTDTdakUGT920
